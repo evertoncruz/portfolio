@@ -1,6 +1,6 @@
 # 🚀 Everton Cruz - Portfólio de Projetos
 
-Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvolvi com foco em desenvolvimento mobile usando **React Native**, sempre buscando boas práticas e código limpo.
+Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvolvi com foco em desenvolvimento mobile e web usando **React Native** até o momento, sempre buscando boas práticas e código limpo.
 
 ---
 
@@ -8,7 +8,7 @@ Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvo
 
 ### 🧮 Contador React Native
 
-<img src="./assets/counter.png" width="300" alt="Contador App"/>
+<img src="./assets/counter.jpg" width="300" alt="Contador App"/>
 
 - **Repositório:** [contador-react-native](https://github.com/evertoncruz/contador-react-native)
 - **Tecnologias:** React Native, Expo
