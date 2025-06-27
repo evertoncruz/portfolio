@@ -11,7 +11,7 @@ Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvo
 <img src="./assets/terminal.png" width="300" alt="Imagem de terminal rodando o servidor"/>
 <img src="./assets/postman.png" width="300" alt="Imagem da ferramenta post efetuando um list de usuários"/>
 
-- **Repositório:** [auth-api-ts](https://github.com/evertoncruz/auth-api-ts)
+- **Repositório:** [user-auth-api](https://github.com/evertoncruz/user-auth-api)
 - **Tecnologias:** Node.js, Express, TypeScript, Firebase, Jest
 - **Descrição:** API RESTful de autenticação de usuários, com registro, listagem e login via Firebase. Inclui testes automatizados com Jest e Supertest. Ideal para treinar boas práticas com TypeScript, rotas seguras e integração com serviços externos.
 
