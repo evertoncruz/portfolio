@@ -8,7 +8,8 @@ Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvo
 
 ### 🌐 API de Autenticação Node.js
 
-<img src="./assets/auth-api.jpg" width="300" alt="Auth API"/>
+<img src="./assets/terminal.png" width="300" alt="Imagem de terminal rodando o servidor"/>
+<img src="./assets/postman.png" width="300" alt="Imagem da ferramenta post efetuando um list de usuários"/>
 
 - **Repositório:** [auth-api-ts](https://github.com/evertoncruz/auth-api-ts)
 - **Tecnologias:** Node.js, Express, TypeScript, Firebase, Jest
@@ -20,7 +21,7 @@ Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvo
 
 ### 🧮 Contador React Native
 
-<img src="./assets/counter.jpg" width="300" alt="Contador App"/>
+<img src="./assets/counter.jpg" width="300" alt="Imagem Contador App"/>
 
 - **Repositório:** [contador-react-native](https://github.com/evertoncruz/contador-react-native)
 - **Tecnologias:** React Native, Expo
@@ -30,8 +31,8 @@ Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvo
 
 ### ✅ ToDo List React Native
 
-<img src="./assets/home-todo.png" width="300" alt="Contador App"/>
-<img src="./assets/add-todo.png" width="300" alt="Contador App"/>
+<img src="./assets/home-todo.png" width="300" alt="Imagem Todo List home screen "/>
+<img src="./assets/add-todo.png" width="300" alt="Imagem Todo List add screen"/>
 
 - **Repositório:** [desafio-todo-list-v](https://github.com/evertoncruz/desafio-todo-list-v)
 - **Tecnologias:** React Native, Expo
