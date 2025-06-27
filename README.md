@@ -4,6 +4,18 @@ Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvo
 
 ---
 
+## 🔐 Aplicações Web
+
+### 🌐 API de Autenticação Node.js
+
+<img src="./assets/auth-api.jpg" width="300" alt="Auth API"/>
+
+- **Repositório:** [auth-api-ts](https://github.com/evertoncruz/auth-api-ts)
+- **Tecnologias:** Node.js, Express, TypeScript, Firebase, Jest
+- **Descrição:** API RESTful de autenticação de usuários, com registro, listagem e login via Firebase. Inclui testes automatizados com Jest e Supertest. Ideal para treinar boas práticas com TypeScript, rotas seguras e integração com serviços externos.
+
+---
+
 ## 📱 Aplicativos Mobile
 
 ### 🧮 Contador React Native
