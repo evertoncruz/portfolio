@@ -17,7 +17,9 @@ Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvo
 
 ---
 
-### 🛒 Aplicação E-commerce React
+### 🛒 E-commerce
+
+#### 🛒 Aplicação E-commerce React
 
 <img src="./assets/e-commerce-home.png" width="300" alt="Imagem da home do e-commerce"/>
 <img src="./assets/e-commerce-details.png" width="300" alt="Imagem da página de detalhes do produto"/>
@@ -26,6 +28,16 @@ Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvo
 - **Repositório:** [e-commerce-basico](https://github.com/evertoncruz/ecommerce-basico)
 - **Tecnologias:** React, TypeScript, GraphQL, Apollo Client, CSS, Node.js, Vercel
 - **Descrição:** Uma aplicação de e-commerce responsiva, com listagem de produtos, página de detalhes e carrinho de compras. O frontend em React consome dados de uma API externa através de um backend-for-frontend (BFF) em GraphQL, seguindo o padrão REST. O projeto demonstra o uso de hooks, gerenciamento de estado e integração com APIs.
+
+---
+
+#### 🛍️ Backend-for-Frontend (BFF)
+
+<img src="./assets/e-commerce-terminal.png" width="300" alt="Imagem do servidor BFF rodando no terminal"/>
+
+- **Repositório:** [e-commerce-basico-bff](https://github.com/evertoncruz/ecommerce-basico-bff)
+- **Tecnologias:** Node.js, GraphQL, Express, Apollo Server, Railway
+- **Descrição:** O backend-for-frontend (BFF) da aplicação de e-commerce, desenvolvido para atuar como uma camada de dados entre o frontend e APIs externas. Ele expõe um único endpoint GraphQL para o frontend, simplificando a obtenção de dados e otimizando a comunicação. Este projeto foi hospedado no Railway para garantir um ambiente de produção dedicado.
 
 ---
 
