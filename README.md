@@ -20,8 +20,8 @@ Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvo
 ### 🛒 Aplicação E-commerce React
 
 <img src="./assets/e-commerce-home.png" width="300" alt="Imagem da home do e-commerce"/>
-<img src="./assets/ecommerce-details.png" width="300" alt="Imagem da página de detalhes do produto"/>
-<img src="./assets/ecommerce-cart.png" width="300" alt="Imagem do carrinho de compras"/>
+<img src="./assets/e-commerce-details.png" width="300" alt="Imagem da página de detalhes do produto"/>
+<img src="./assets/e-commerce-cart.png" width="300" alt="Imagem do carrinho de compras"/>
 
 - **Repositório:** [e-commerce-basico](https://github.com/evertoncruz/ecommerce-basico)
 - **Tecnologias:** React, TypeScript, GraphQL, Apollo Client, CSS, Node.js, Vercel
