@@ -23,7 +23,7 @@ Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvo
 <img src="./assets/ecommerce-product.png" width="300" alt="Imagem da página de detalhes do produto"/>
 <img src="./assets/ecommerce-cart.png" width="300" alt="Imagem do carrinho de compras"/>
 
-- **Repositório:** [user-auth-api](https://github.com/evertoncruz/user-auth-api)
+- **Repositório:** [user-auth-api](https://github.com/evertoncruz/ecommerce-basico)
 - **Tecnologias:** React, TypeScript, GraphQL, Apollo Client, CSS, Node.js, Vercel
 - **Descrição:** Uma aplicação de e-commerce responsiva, com listagem de produtos, página de detalhes e carrinho de compras. O frontend em React consome dados de uma API externa através de um backend-for-frontend (BFF) em GraphQL, seguindo o padrão REST. O projeto demonstra o uso de hooks, gerenciamento de estado e integração com APIs.
 
