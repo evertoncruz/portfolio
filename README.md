@@ -2,6 +2,8 @@
 
 Bem-vindo ao meu portfólio! Aqui você encontra alguns dos projetos que desenvolvi com foco em desenvolvimento mobile e web, sempre buscando boas práticas e código limpo.
 
+Em constante evolução, para mais projetos acesso demais repositórios!
+
 ---
 
 ## 🔐 Aplicações Web
